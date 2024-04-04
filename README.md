@@ -1,4 +1,4 @@
-# MAE inference for matlab
+# MaskAutoEncoder inference for matlab
 
 
 This folder implements MAE operations. Key components of transformers are located inside `+layers`. To run the code:
